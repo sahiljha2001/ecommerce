@@ -1,7 +1,7 @@
 # ecommerce
 # DUKAAN
 
-![amazona](/frontend/images/jsamazona.jpg)
+
 
 
 
